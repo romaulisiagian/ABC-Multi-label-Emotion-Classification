@@ -8,5 +8,3 @@
 <p> 11S18032 : Rido Sitanggang
 <p> 11S18057 : Marlyse Elysabeth Sitorus
 <p> 11S18059 : Kristiane Purba</p>
-
-y
