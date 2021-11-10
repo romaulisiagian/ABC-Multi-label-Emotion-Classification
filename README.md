@@ -1,6 +1,6 @@
 # ABC-Multi-label-Emotion-Classification
 Ketua: 
-11S18027 : Romauli Siagian
+<li>11S18027 : Romauli Siagian</li>
 
 Anggota Kelompok ABC:
 11S18003 : Febby Irene Siringoringo
