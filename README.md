@@ -9,6 +9,6 @@
 <p> 11S18057 : Marlyse Elysabeth Sitorus
 <p> 11S18059 : Kristiane Purba</p>
 
-Proyek ini menggunakan :
+*Proyek ini menggunakan :*
 <li> Python 3.8
 <li> Google Colab
