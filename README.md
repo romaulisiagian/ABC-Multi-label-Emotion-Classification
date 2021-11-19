@@ -10,5 +10,5 @@
 <p> 11S18059 : Kristiane Purba</p>
 
 Proyek ini menggunakan :
-Python 3.8
-Google Colab
+<li> Python 3.8
+<li> Google Colab
