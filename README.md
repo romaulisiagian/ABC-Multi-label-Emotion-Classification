@@ -12,5 +12,4 @@
 *Proyek ini menggunakan :*
 <li> Python 3.8
 <li> Google Colab
-<li> Jupyter Notebook
 
